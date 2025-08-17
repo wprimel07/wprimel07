@@ -1,10 +1,10 @@
 ## olá eu sou WELLINGTON
 
 - 🔭 sou estudante de tecnologia
-- meu e-amail depaulamorais@yahoo.com.br
-- instagram wellington de paula morais silva
-- linkedin wellington-de-paula-morais-silva
-- otimas abilidades de comunicação
+- E-amail depaulamorais@yahoo.com.br
+- Instagram wellington de paula morais silva
+- Linkedin wellington-de-paula-morais-silva
+- Otima abilidade de comunicação
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
