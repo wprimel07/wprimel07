@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=15e5a6&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+WELLINGTON+PAULA+MORAIS+SILVA;+Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+
 ## olá eu sou WELLINGTON
 
 - 🔭 sou estudante de tecnologia
