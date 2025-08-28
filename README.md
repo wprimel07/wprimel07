@@ -33,3 +33,10 @@
   <a href="https://www.linkedin.com/in/wellington-de-paula-morais-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+## 📊Estatísticas
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WELISSON00&show_icons=true&count_private=true&hide_border=true&title_color=15e5a6&icon_color=15e5a6&text_color=c9d1d9&bg_color=0d1117" alt="WELISSON00 github stats"/> 
+  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WELISSON00&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
